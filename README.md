@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Wloner0809
-- 👀 I’m interested in CS
-- 🌱 I’m currently learning verilog、c++、data structure、ICS
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m wy from USTC
+- 🌱 I’m currently learning python、machine learning
 - 📫 You can reach me by wloner@mail.ustc.edu.cn
 
 <!---
