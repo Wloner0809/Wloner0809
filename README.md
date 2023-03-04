@@ -1,6 +1,6 @@
-- 👋 Hi, I’m wy from USTC
-- 🌱 I’m currently learning python、machine learning
-- 📫 You can reach me by wloner@mail.ustc.edu.cn
+- 👋 Hi, I’m wloner0809 from USTC
+- 🌱 I’m currently learning ML
+- 📫 You can reach me by wloner0809@gmail.com
 
 <!---
 Wloner0809/Wloner0809 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
