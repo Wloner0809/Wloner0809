@@ -34,6 +34,15 @@
 ![](https://github.com/Wloner0809/Wloner0809/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
+
+```txt
+TeX              9 hrs 22 mins   ███████████▓░░░░░░░░░░░░░   46.53 %
+C++              8 hrs 51 mins   ███████████░░░░░░░░░░░░░░   43.93 %
+Python           40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
+C                28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
+Markdown         22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+```
+
 <!--END_SECTION:waka-->
 
 <!---
