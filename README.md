@@ -33,6 +33,9 @@
 
 ![](https://github.com/Wloner0809/Wloner0809/blob/output/github-contribution-grid-snake.svg)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!---
 Wloner0809/Wloner0809 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
