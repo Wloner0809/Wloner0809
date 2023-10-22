@@ -32,7 +32,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wloner0809&" alt="wloner0809" /></p>
 
 ![](https://github.com/Wloner0809/Wloner0809/blob/output/github-contribution-grid-snake.svg)
-
+ 
+* 📊**Last 7 days**:
 <!--START_SECTION:waka-->
 
 ```txt
@@ -48,6 +49,8 @@ ActionScript 3   16 mins         ▒░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+* **total coding time**: [![wakatime](https://wakatime.com/badge/user/3b010e91-e8bb-445f-9eac-c8ab5bc30cb6.svg)](https://wakatime.com/@3b010e91-e8bb-445f-9eac-c8ab5bc30cb6) **Since Nov 5 2022**
 
 <!---
 Wloner0809/Wloner0809 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
