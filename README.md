@@ -36,18 +36,19 @@
 <!--START_SECTION:waka-->
 
 ```C++
-From: 13 October 2023 - To: 20 October 2023
+From: 14 October 2023 - To: 21 October 2023
 
-Total Time: 20 hrs 8 mins
+Total Time: 20 hrs 23 mins
 
-TeX              9 hrs 22 mins   >>>>>>>>>>>>-------------   46.53 %
-C++              8 hrs 51 mins   >>>>>>>>>>>--------------   43.93 %
-Python           40 mins         >------------------------   03.33 %
-C                28 mins         >------------------------   02.37 %
-Markdown         22 mins         -------------------------   01.83 %
-ActionScript 3   16 mins         -------------------------   01.32 %
-Objective-C      4 mins          -------------------------   00.34 %
+TeX              9 hrs 22 mins   >>>>>>>>>>>--------------   45.99 %
+C++              8 hrs 51 mins   >>>>>>>>>>>--------------   43.42 %
+Python           57 mins         >------------------------   04.67 %
+C                37 mins         >------------------------   03.05 %
+ActionScript 3   16 mins         -------------------------   01.31 %
+Markdown         12 mins         -------------------------   01.01 %
+Objective-C      4 mins          -------------------------   00.33 %
 Git Config       0 secs          -------------------------   00.07 %
+Assembly         0 secs          -------------------------   00.01 %
 ```
 
 <!--END_SECTION:waka-->
