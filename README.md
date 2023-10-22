@@ -35,7 +35,7 @@
 
 <!--START_SECTION:waka-->
 
-```C++
+```txt
 From: 14 October 2023 - To: 21 October 2023
 
 Total Time: 20 hrs 23 mins
