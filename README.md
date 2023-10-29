@@ -37,14 +37,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 October 2023 - To: 27 October 2023
+From: 21 October 2023 - To: 28 October 2023
 
-Total Time: 2 hrs 7 mins
+Total Time: 5 hrs 47 mins
 
-TeX      1 hr 31 mins    ██████████████████░░░░░░░   71.46 %
-C        19 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.05 %
-Python   16 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.19 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+TeX     5 hrs 37 mins   ████████████████████████▒   96.82 %
+C       10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+CSV     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
