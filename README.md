@@ -37,13 +37,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 November 2023 - To: 13 November 2023
+From: 07 November 2023 - To: 14 November 2023
 
-Total Time: 8 hrs 14 mins
+Total Time: 8 hrs 27 mins
 
-TeX           4 hrs 8 mins    ████████████▓░░░░░░░░░░░░   50.20 %
-C++           4 hrs 4 mins    ████████████▒░░░░░░░░░░░░   49.34 %
-C             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+TeX           4 hrs 21 mins   █████████████░░░░░░░░░░░░   51.53 %
+C++           4 hrs 4 mins    ████████████░░░░░░░░░░░░░   48.02 %
+C             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 JSON          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 Other         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
