@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wloner0809&label=Profile%20views&color=0e75b6&style=flat" alt="wloner0809" /> </p>
 
-- 🔭 I’m currently working on **LLM-agents, RL, Recommendation**
+- 🔭 I’m currently working on **LLM4Rec, Recommendation**
 
-- 🌱 I’m currently learning **pytorch, LLM**
+- 🌱 I’m currently learning **pytorch, LLM, NLP**
 
 - 👨‍💻 All of my projects are available at [Wloner0809](https://github.com/Wloner0809)
 
-- 📫 How to reach me **wloner0809@gmail.com**
+- 📫 How to reach me **terencewang0809@gmail.com**
 
 - 📄 Know about my experiences [Personal Resume](https://wloner0809.github.io/)
 
