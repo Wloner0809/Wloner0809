@@ -37,15 +37,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 December 2023 - To: 26 December 2023
+From: 20 December 2023 - To: 27 December 2023
 
-Total Time: 18 hrs 28 mins
+Total Time: 18 hrs 46 mins
 
-C            10 hrs 10 mins  █████████████▓░░░░░░░░░░░   55.07 %
-TeX          7 hrs 32 mins   ██████████▒░░░░░░░░░░░░░░   40.85 %
-SSH Config   22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
-Text         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
-Markdown     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+C            10 hrs 10 mins  █████████████▓░░░░░░░░░░░   54.17 %
+TeX          7 hrs 32 mins   ██████████░░░░░░░░░░░░░░░   40.18 %
+SSH Config   22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
+Markdown     21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
+Text         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
 ```
 
 <!--END_SECTION:waka-->
