@@ -37,15 +37,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 December 2023 - To: 29 December 2023
+From: 23 December 2023 - To: 30 December 2023
 
-Total Time: 10 hrs 7 mins
+Total Time: 4 hrs 9 mins
 
-TeX          6 hrs 8 mins    ███████████████░░░░░░░░░░   60.61 %
-C            3 hrs 10 mins   ███████▓░░░░░░░░░░░░░░░░░   31.32 %
-SSH Config   22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
-Markdown     17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
-YAML         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+TeX        2 hrs 8 mins    █████████████░░░░░░░░░░░░   51.54 %
+C          1 hr 38 mins    ██████████░░░░░░░░░░░░░░░   39.35 %
+Markdown   17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.81 %
+YAML       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
