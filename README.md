@@ -37,15 +37,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 December 2023 - To: 30 December 2023
+From: 24 December 2023 - To: 31 December 2023
 
-Total Time: 4 hrs 9 mins
+Total Time: 5 hrs 13 mins
 
-TeX        2 hrs 8 mins    █████████████░░░░░░░░░░░░   51.54 %
-C          1 hr 38 mins    ██████████░░░░░░░░░░░░░░░   39.35 %
-Markdown   17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.81 %
-YAML       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
-Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+TeX        3 hrs 44 mins   ██████████████████░░░░░░░   71.55 %
+C          1 hr 10 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.39 %
+Markdown   13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
+YAML       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
