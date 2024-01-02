@@ -37,12 +37,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 December 2023 - To: 31 December 2023
+From: 25 December 2023 - To: 01 January 2024
 
 Total Time: 5 hrs 13 mins
 
-TeX        3 hrs 44 mins   ██████████████████░░░░░░░   71.55 %
-C          1 hr 10 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.39 %
+TeX        3 hrs 59 mins   ███████████████████░░░░░░   76.46 %
+C          54 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.47 %
 Markdown   13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
 YAML       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
 Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
