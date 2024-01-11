@@ -37,13 +37,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 January 2024 - To: 09 January 2024
+From: 03 January 2024 - To: 10 January 2024
 
-Total Time: 1 hr 10 mins
+Total Time: 2 hrs 38 mins
 
-C++        55 mins         ████████████████████░░░░░   79.61 %
-Markdown   10 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.45 %
-C          4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 %
+C++    2 hrs 27 mins   ███████████████████████▒░   93.19 %
+C      10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 %
+Text   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
