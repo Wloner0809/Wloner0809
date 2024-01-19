@@ -37,11 +37,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 January 2024 - To: 17 January 2024
+From: 11 January 2024 - To: 18 January 2024
 
-Total Time: 0 secs
+Total Time: 2 hrs 40 mins
 
-No activity tracked
+C++   2 hrs 39 mins   █████████████████████████   99.56 %
+C     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
 ```
 
 <!--END_SECTION:waka-->
