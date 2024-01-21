@@ -37,13 +37,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 January 2024 - To: 19 January 2024
+From: 13 January 2024 - To: 20 January 2024
 
-Total Time: 3 hrs 56 mins
+Total Time: 5 hrs 21 mins
 
-C++      3 hrs 18 mins   █████████████████████░░░░   84.01 %
-Python   37 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.69 %
-C        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+C++      3 hrs 18 mins   ███████████████▒░░░░░░░░░   61.62 %
+Python   1 hr 20 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.09 %
+TeX      39 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.25 %
+CSV      2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+C        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
 <!--END_SECTION:waka-->
