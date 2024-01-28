@@ -37,13 +37,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 January 2024 - To: 26 January 2024
+From: 20 January 2024 - To: 27 January 2024
 
-Total Time: 1 hr 25 mins
+Total Time: 0 secs
 
-Python   43 mins         ████████████▓░░░░░░░░░░░░   50.95 %
-TeX      39 mins         ███████████▒░░░░░░░░░░░░░   45.97 %
-CSV      2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
