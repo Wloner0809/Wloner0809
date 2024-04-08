@@ -37,15 +37,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 March 2024 - To: 06 April 2024
+From: 31 March 2024 - To: 07 April 2024
 
-Total Time: 39 hrs 6 mins
+Total Time: 41 hrs 24 mins
 
-Python       33 hrs 10 mins  █████████████████████░░░░   84.38 %
-YAML         2 hrs 58 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 %
-Bash         1 hr 15 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
-Text         1 hr 4 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
-JSON         28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+Python       34 hrs 57 mins  █████████████████████░░░░   83.98 %
+YAML         3 hrs 22 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 %
+Bash         1 hr 16 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
+Text         1 hr 4 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
+JSON         37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
 ```
 
 <!--END_SECTION:waka-->
