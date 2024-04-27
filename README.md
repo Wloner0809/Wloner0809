@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wloner0809&label=Profile%20views&color=0e75b6&style=flat" alt="wloner0809" /> </p>
 
-- 🔭 I’m currently working on **LLM4Rec, Recommendation**
+- 🔭 I’m currently working on **NLP, application of LLM**
 
-- 🌱 I’m currently learning **pytorch, LLM, NLP**
+- 🌱 I’m currently learning **pytorch, pytorch-lightning, transformers/peft etc.**
 
 - 👨‍💻 All of my projects are available at [Wloner0809](https://github.com/Wloner0809)
 
