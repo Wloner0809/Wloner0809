@@ -37,15 +37,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 May 2024 - To: 24 May 2024
+From: 18 May 2024 - To: 25 May 2024
 
-Total Time: 14 hrs 20 mins
+Total Time: 12 hrs 55 mins
 
-Python     7 hrs 22 mins   ████████████▓░░░░░░░░░░░░   51.13 %
-C++        3 hrs 7 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.65 %
-Cuda       2 hrs 8 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.85 %
-Markdown   48 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
-CMake      15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
+Python     8 hrs 26 mins   ████████████████▒░░░░░░░░   64.86 %
+C++        1 hr 45 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.53 %
+Cuda       55 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.09 %
+Bash       39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 %
+Markdown   29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
 ```
 
 <!--END_SECTION:waka-->
