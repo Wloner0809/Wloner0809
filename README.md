@@ -37,11 +37,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 July 2024 - To: 09 July 2024
+From: 03 July 2024 - To: 10 July 2024
 
-Total Time: 1 hr 54 mins
+Total Time: 2 hrs 49 mins
 
-C++   1 hr 54 mins    █████████████████████████   100.00 %
+C++   2 hrs 49 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
