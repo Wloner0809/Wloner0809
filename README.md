@@ -37,12 +37,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 July 2024 - To: 18 July 2024
+From: 12 July 2024 - To: 19 July 2024
 
-Total Time: 16 hrs 13 mins
+Total Time: 15 hrs 54 mins
 
-C++    16 hrs 9 mins   █████████████████████████   99.60 %
-C      3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+C++    15 hrs 50 mins  █████████████████████████   99.60 %
+C      3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 JSON   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 Text   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
