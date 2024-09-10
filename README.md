@@ -37,15 +37,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 September 2024 - To: 08 September 2024
+From: 02 September 2024 - To: 09 September 2024
 
-Total Time: 1 hr 52 mins
+Total Time: 3 hrs 9 mins
 
-SSH Config   44 mins         █████████▓░░░░░░░░░░░░░░░   39.31 %
-Bash         44 mins         █████████▓░░░░░░░░░░░░░░░   38.71 %
-Markdown     23 mins         █████░░░░░░░░░░░░░░░░░░░░   20.22 %
-Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+YAML         1 hr 15 mins    ██████████░░░░░░░░░░░░░░░   39.43 %
+Bash         45 mins         ██████░░░░░░░░░░░░░░░░░░░   23.94 %
+SSH Config   44 mins         ██████░░░░░░░░░░░░░░░░░░░   23.44 %
+Markdown     23 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.06 %
+Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
 ```
 
 <!--END_SECTION:waka-->
