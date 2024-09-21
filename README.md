@@ -4,9 +4,9 @@
 
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wloner0809&show_icons=true&locale=en&layout=compact" alt="wloner0809" height=148 />
- <img src="https://github-readme-stats.vercel.app/api?username=wloner0809&show_icons=true&locale=en" alt="wloner0809" height=148 />
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=wloner0809&" alt="wloner0809" height=148 />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wloner0809&show_icons=true&locale=en&layout=compact" alt="wloner0809" height=120 />
+ <img src="https://github-readme-stats.vercel.app/api?username=wloner0809&show_icons=true&locale=en" alt="wloner0809" height=120 />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=wloner0809&" alt="wloner0809" height=120 />
  <img src="https://github.com/Wloner0809/Wloner0809/blob/output/github-contribution-grid-snake.svg">
 </p>
  
