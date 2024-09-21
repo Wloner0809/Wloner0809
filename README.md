@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yu Wang</h1>
+<h3 align="center">Hi there👋, I'm Yu Wang</h1>
 
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Alex+Brush&size=18&pause=1000&color=716A50&background=6F66FF00&center=true&vCenter=true&width=435&lines=To+love+oneself+is+the+beginning+of+a+lifelong+romance.+%E2%80%94+Oscar+Wilde" alt="Typing SVG" /></a></p>
 
