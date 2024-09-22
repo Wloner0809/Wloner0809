@@ -13,16 +13,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 September 2024 - To: 20 September 2024
+From: 14 September 2024 - To: 21 September 2024
 
-Total Time: 9 hrs 40 mins
+Total Time: 13 hrs 4 mins
 
-YAML          4 hrs 23 mins              ███████████▒░░░░░░░░░░░░░   45.20 %
-Python        1 hr 36 mins               ████░░░░░░░░░░░░░░░░░░░░░   16.52 %
-SSH Config    54 mins                    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.32 %
-Bash          44 mins                    ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 %
-Markdown      38 mins                    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.62 %
+YAML         4 hrs 53 mins   █████████░░░░░░░░░░░░░░░░   36.45 %
+Python       3 hrs 52 mins   ███████▒░░░░░░░░░░░░░░░░░   28.92 %
+Bash         2 hrs 21 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.60 %
+SSH Config   54 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.77 %
+SCSS         23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
 ```
+
 <!--END_SECTION:waka-->
 
 [![Total Coding Time](https://wakatime.com/badge/user/3b010e91-e8bb-445f-9eac-c8ab5bc30cb6.svg)](https://wakatime.com/@3b010e91-e8bb-445f-9eac-c8ab5bc30cb6)
