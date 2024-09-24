@@ -13,15 +13,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 September 2024 - To: 22 September 2024
+From: 16 September 2024 - To: 23 September 2024
 
-Total Time: 15 hrs 5 mins
+Total Time: 16 hrs 14 mins
 
-YAML         5 hrs 57 mins   █████████▓░░░░░░░░░░░░░░░   38.61 %
-Python       4 hrs 20 mins   ███████░░░░░░░░░░░░░░░░░░   28.20 %
-Bash         2 hrs 47 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.10 %
-SSH Config   54 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 %
-SCSS         23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
+YAML         6 hrs 8 mins    █████████▒░░░░░░░░░░░░░░░   37.00 %
+Python       5 hrs 13 mins   ████████░░░░░░░░░░░░░░░░░   31.50 %
+Bash         2 hrs 50 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.09 %
+SSH Config   54 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
+JSON         24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
 ```
 
 <!--END_SECTION:waka-->
