@@ -13,15 +13,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 December 2024 - To: 15 December 2024
+From: 09 December 2024 - To: 16 December 2024
 
-Total Time: 57 hrs 16 mins
+Total Time: 55 hrs 2 mins
 
-Python       35 hrs 5 mins   ███████████████░░░░░░░░░░   59.58 %
-Bash         16 hrs 32 mins  ███████░░░░░░░░░░░░░░░░░░   28.10 %
-YAML         4 hrs 18 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.31 %
-Other        1 hr 37 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
-SSH Config   24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+Python       29 hrs 38 mins  █████████████░░░░░░░░░░░░   52.06 %
+Bash         20 hrs 3 mins   ████████▓░░░░░░░░░░░░░░░░   35.24 %
+YAML         4 hrs 6 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 %
+Other        1 hr 53 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
+SSH Config   24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
 ```
 
 <!--END_SECTION:waka-->
