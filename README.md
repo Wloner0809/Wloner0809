@@ -13,12 +13,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 January 2025 - To: 28 January 2025
+From: 22 January 2025 - To: 29 January 2025
 
-Total Time: 30 mins
+Total Time: 29 mins
 
-Other    1 hr 30 mins    ██████████████████▓░░░░░░   74.43 %
-Python   30 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.57 %
+Other    35 mins         █████████████▓░░░░░░░░░░░   54.82 %
+Python   29 mins         ███████████▒░░░░░░░░░░░░░   45.18 %
 ```
 
 <!--END_SECTION:waka-->
