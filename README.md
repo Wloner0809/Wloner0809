@@ -13,15 +13,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 July 2025 - To: 13 July 2025
+From: 07 July 2025 - To: 14 July 2025
 
-Total Time: 1 hr 35 mins
+Total Time: 2 hrs 32 mins
 
-SSH Config   50 mins         █████████████░░░░░░░░░░░░   51.98 %
-Python       14 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.67 %
-JSON         13 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.24 %
-TOML         7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 %
-Bash         6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 %
+SSH Config   50 mins         ████████▒░░░░░░░░░░░░░░░░   32.98 %
+Python       36 mins         ██████░░░░░░░░░░░░░░░░░░░   23.56 %
+Bash         36 mins         ██████░░░░░░░░░░░░░░░░░░░   23.36 %
+JSON         13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.04 %
+TOML         8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
 ```
 
 <!--END_SECTION:waka-->
