@@ -13,15 +13,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 July 2025 - To: 30 July 2025
+From: 24 July 2025 - To: 31 July 2025
 
-Total Time: 27 hrs 19 mins
+Total Time: 34 hrs 6 mins
 
-Python             19 hrs 14 mins  ███████████████▓░░░░░░░░░   62.96 %
-Other              3 hrs 14 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.60 %
-JSON               2 hrs 36 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 %
-Markdown           2 hrs 11 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 %
-Bash               2 hrs 9 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.08 %
+Python       22 hrs 53 mins  ███████████████░░░░░░░░░░   59.96 %
+JSON         4 hrs 39 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.20 %
+Other        4 hrs 4 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.69 %
+Bash         2 hrs 25 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 %
+Markdown     2 hrs 20 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 %
 ```
 
 <!--END_SECTION:waka-->
