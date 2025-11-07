@@ -13,15 +13,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 October 2025 - To: 05 November 2025
+From: 30 October 2025 - To: 06 November 2025
 
-Total Time: 19 hrs 58 mins
+Total Time: 15 hrs 52 mins
 
-Python       15 hrs 30 mins  ███████████████████▒░░░░░   77.59 %
-Markdown     2 hrs 56 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.70 %
-Bash         52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
-YAML         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
-SSH Config   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+Python       12 hrs 13 mins  ███████████████████▒░░░░░   77.00 %
+Markdown     2 hrs 20 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.70 %
+Bash         47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
+YAML         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+SSH Config   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
 ```
 
 <!--END_SECTION:waka-->
