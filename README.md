@@ -13,11 +13,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 January 2026 - To: 14 January 2026
+From: 08 January 2026 - To: 15 January 2026
 
-Total Time: 0 secs
+Total Time: 39 mins
 
-No activity tracked
+Markdown   35 mins         ██████████████████████▓░░   90.67 %
+Python     2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.22 %
+Other      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
+Bash       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+CSV        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
