@@ -13,13 +13,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 May 2026 - To: 08 May 2026
+From: 02 May 2026 - To: 09 May 2026
 
-Total Time: 50 mins
+Total Time: 3 hrs 42 mins
 
-Markdown   49 mins               █████████████████████▒░░░   85.06 %
-Other      8 mins                ███▓░░░░░░░░░░░░░░░░░░░░░   14.77 %
-Text       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Markdown   3 hrs 22 mins         █████████████████████▓░░░   86.17 %
+JSON       18 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 %
+Other      13 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 %
+Text       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
 <!--END_SECTION:waka-->
