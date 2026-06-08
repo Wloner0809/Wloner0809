@@ -13,15 +13,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 May 2026 - To: 06 June 2026
+From: 31 May 2026 - To: 07 June 2026
 
-Total Time: 12 hrs 6 mins
+Total Time: 10 hrs 39 mins
 
-Markdown     6 hrs 46 mins         ████████████▓░░░░░░░░░░░░   51.00 %
-TeX          3 hrs 44 mins         ███████░░░░░░░░░░░░░░░░░░   28.22 %
-Other        1 hr 10 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.80 %
-BibTeX       46 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.78 %
-JSON         25 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
+Markdown   6 hrs 4 mins          █████████████░░░░░░░░░░░░   51.66 %
+TeX        3 hrs 21 mins         ███████░░░░░░░░░░░░░░░░░░   28.58 %
+Other      1 hr 6 mins           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.42 %
+BibTeX     46 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 %
+JSON       17 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
 ```
 
 <!--END_SECTION:waka-->
