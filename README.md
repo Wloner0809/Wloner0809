@@ -6,7 +6,7 @@
 <p align="center">
  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=wloner0809&show_icons=true&locale=en&layout=compact" alt="Yu Wang's most used languages" height="120" />
  <img src="https://github-stats-extended.vercel.app/api?username=wloner0809&show_icons=true&locale=en" alt="Yu Wang's GitHub statistics" height="120" />
- <img src="https://github-readme-streak-stats.herokuapp.com?user=wloner0809&theme=microsoft" alt="GitHub Streak" height=120 />
+ <img src="https://streak-stats.demolab.com/?user=wloner0809&theme=microsoft" alt="GitHub Streak" height="120" />
  <img src="https://raw.githubusercontent.com/Wloner0809/Wloner0809/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
 </p>
  
