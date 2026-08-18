@@ -1,13 +1,13 @@
-<h3 align="center">Hi there👋, I'm Yu Wang</h1>
+<h3 align="center">Hi there👋, I'm Yu Wang</h3>
 
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Alex+Brush&size=18&pause=1000&color=716A50&background=6F66FF00&center=true&vCenter=true&width=435&lines=To+love+oneself+is+the+beginning+of+a+lifelong+romance.+%E2%80%94+Oscar+Wilde" alt="Typing SVG" /></a></p>
 
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wloner0809&show_icons=true&locale=en&layout=compact" alt="wloner0809" height=120 />
- <img src="https://github-readme-stats.vercel.app/api?username=wloner0809&show_icons=true&locale=en" alt="wloner0809" height=120 />
+ <img src="https://github-stats-extended.vercel.app/api/top-langs?username=wloner0809&show_icons=true&locale=en&layout=compact" alt="Yu Wang's most used languages" height="120" />
+ <img src="https://github-stats-extended.vercel.app/api?username=wloner0809&show_icons=true&locale=en" alt="Yu Wang's GitHub statistics" height="120" />
  <img src="https://github-readme-streak-stats.herokuapp.com?user=wloner0809&theme=microsoft" alt="GitHub Streak" height=120 />
- <img src="https://github.com/Wloner0809/Wloner0809/blob/output/github-contribution-grid-snake.svg">
+ <img src="https://raw.githubusercontent.com/Wloner0809/Wloner0809/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
 </p>
  
 <!--START_SECTION:waka-->
