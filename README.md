@@ -13,15 +13,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 September 2026 - To: 18 September 2026
+From: 12 September 2026 - To: 19 September 2026
 
-Total Time: 8 hrs 11 mins
+Total Time: 49 hrs 56 mins
 
-Markdown     3 hrs 10 mins         ████████▒░░░░░░░░░░░░░░░░   32.90 %
-Python       2 hrs 34 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.55 %
-Other        1 hr 28 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.32 %
-Text         1 hr                  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.51 %
-TOML         45 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 %
+Markdown     20 hrs 43 mins        ██████████░░░░░░░░░░░░░░░   40.50 %
+Python       13 hrs 9 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.70 %
+Bash         12 hrs 23 mins        ██████░░░░░░░░░░░░░░░░░░░   24.22 %
+Text         1 hr 47 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
+Other        1 hr 14 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
 ```
 
 <!--END_SECTION:waka-->
