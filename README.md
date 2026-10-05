@@ -13,15 +13,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 September 2026 - To: 03 October 2026
+From: 27 September 2026 - To: 04 October 2026
 
 Total Time: 1 hr 33 mins
 
-Other           1 hr 17 mins          ███████████▒░░░░░░░░░░░░░   45.30 %
-Python          48 mins               ███████░░░░░░░░░░░░░░░░░░   28.18 %
-Bash            26 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.34 %
-Unity3D Asset   10 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 %
-JSON            7 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
+Other           1 hr 14 mins          ███████████░░░░░░░░░░░░░░   44.25 %
+Python          48 mins               ███████▒░░░░░░░░░░░░░░░░░   28.72 %
+Bash            26 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.63 %
+Unity3D Asset   10 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 %
+JSON            7 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
 ```
 
 <!--END_SECTION:waka-->
